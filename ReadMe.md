@@ -95,11 +95,11 @@ Now, modify a single bit in Signature s by using `643D6F34902D9C7EC90CB0B2BCA36C
 	
 Running `task5.c` again gives us the output as,
 
-	Original Message :  4C61756E63682061206D697373696C652E
-	Computed Message :  91471927C80DF1E42C154FB4638CE8BC726D3D66C83A4EB6B7BE0203B41AC294
+	Original Message:  4C61756E63682061206D697373696C652E
+	Computed Message:  91471927C80DF1E42C154FB4638CE8BC726D3D66C83A4EB6B7BE0203B41AC294
 	Verification failed!
 
-## On Usage of python in commands and more
+## On Usage of Python in commands and more
 
 The Python commands in the instructions are used for simple string manipulation tasks that are quick and convenient to perform in Python. 
 Specifically, Python is used to:
